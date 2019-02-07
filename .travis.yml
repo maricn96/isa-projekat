@@ -1,0 +1,5 @@
+  - oraclejdk8
+  - oraclejdk9
+  - openjdk8
+  
+  before_script: cd "userMicroservice"
