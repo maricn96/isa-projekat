@@ -1,0 +1,8 @@
+com\ftn\isa\projekat\hotel\hotelApi\dto\CenovnikUslugaDTO.class
+com\ftn\isa\projekat\hotel\hotelApi\dto\RezervacijeSobeDTO.class
+com\ftn\isa\projekat\hotel\hotelApi\dto\PrihodiHotelaDTO.class
+com\ftn\isa\projekat\hotel\hotelApi\dto\VanredneCeneNocenjaDTO.class
+com\ftn\isa\projekat\hotel\hotelApi\dto\DodatneUslugeDTO.class
+com\ftn\isa\projekat\hotel\hotelApi\dto\HotelDTO.class
+com\ftn\isa\projekat\hotel\hotelApi\dto\TipSobeDTO.class
+com\ftn\isa\projekat\hotel\hotelApi\dto\HotelskaSobaDTO.class

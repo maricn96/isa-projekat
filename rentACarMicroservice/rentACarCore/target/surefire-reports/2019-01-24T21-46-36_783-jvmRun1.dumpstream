@@ -1,0 +1,235 @@
+# Created at 2019-01-24T21:46:44.819
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-01-24T21:46:44.907
+Unexpected IOException with stream: 21:46:44.905 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.064
+Unexpected IOException with stream: 21:46:45.064 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [C:\Users\Admin\Desktop\7.SEMESTAR\ISA\projekat\ISA-project\ISA-project\rentACarMicroservice\rentACarCore\target\classes\com\ftn\isa\projekat\rentACar\rentACarCore\RentACarCoreApplication.class]
+
+
+# Created at 2019-01-24T21:46:45.068
+Unexpected IOException with stream: 21:46:45.068 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.ftn.isa.projekat.rentACar.rentACarCore.RentACarCoreApplication for test class com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest
+
+
+# Created at 2019-01-24T21:46:45.237
+Unexpected IOException with stream: 21:46:45.225 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - @TestExecutionListeners is not present for class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]: using defaults.
+
+
+# Created at 2019-01-24T21:46:45.242
+Unexpected IOException with stream: 21:46:45.240 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+# Created at 2019-01-24T21:46:45.284
+Unexpected IOException with stream: 21:46:45.281 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2f54a33d, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1018bde2, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@65b3f4a4, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@f2ff811, org.springframework.test.context.support.DirtiesContextTestExecutionListener@568ff82, org.springframework.test.context.transaction.TransactionalTestExecutionListener@50caa560, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@2a266d09, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5ab9e72c, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@186f8716, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1d8bd0de, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@45ca843, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@11c9af63]
+
+
+# Created at 2019-01-24T21:46:45.288
+Unexpected IOException with stream: 21:46:45.287 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.290
+Unexpected IOException with stream: 21:46:45.289 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.293
+Unexpected IOException with stream: 21:46:45.292 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.294
+Unexpected IOException with stream: 21:46:45.294 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.296
+Unexpected IOException with stream: 21:46:45.296 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.297
+Unexpected IOException with stream: 21:46:45.297 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.306
+Unexpected IOException with stream: 21:46:45.305 [main] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: context [DefaultTestContext@6f27a732 testClass = BranchOfficeServiceTest, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@6c779568 testClass = BranchOfficeServiceTest, locations = '{}', classes = '{class com.ftn.isa.projekat.rentACar.rentACarCore.RentACarCoreApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@8b96fde, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@41ee392b, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@40e6dfe1, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@17c386de], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true]], class annotated with @DirtiesContext [false] with mode [null].
+
+
+# Created at 2019-01-24T21:46:45.308
+Unexpected IOException with stream: 21:46:45.307 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.308
+Unexpected IOException with stream: 21:46:45.308 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest]
+
+
+# Created at 2019-01-24T21:46:45.349
+Unexpected IOException with stream: 21:46:45.348 [main] DEBUG org.springframework.test.context.support.TestPropertySourceUtils - Adding inlined properties to environment: {spring.jmx.enabled=false, org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true, server.port=-1}
+
+
+# Created at 2019-01-24T21:46:46.955
+Unexpected IOException with stream: 2019-01-24 21:46:46.951  INFO 9728 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$e0cc21d2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+
+# Created at 2019-01-24T21:46:48.215
+Unexpected IOException with stream: 
+
+
+# Created at 2019-01-24T21:46:48.216
+Unexpected IOException with stream:   .   ____          _            __ _ _
+
+
+# Created at 2019-01-24T21:46:48.217
+Unexpected IOException with stream:  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+
+
+# Created at 2019-01-24T21:46:48.218
+Unexpected IOException with stream: ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+
+
+# Created at 2019-01-24T21:46:48.229
+Unexpected IOException with stream:  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+
+
+# Created at 2019-01-24T21:46:48.230
+Unexpected IOException with stream:   '  |____| .__|_| |_|_| |_\__, | / / / /
+
+
+# Created at 2019-01-24T21:46:48.231
+Unexpected IOException with stream:  =========|_|==============|___/=/_/_/_/
+
+
+# Created at 2019-01-24T21:46:48.233
+Unexpected IOException with stream:  :: Spring Boot ::        (v2.1.0.RELEASE)
+
+
+# Created at 2019-01-24T21:46:48.234
+Unexpected IOException with stream: 
+
+
+# Created at 2019-01-24T21:46:48.274
+Unexpected IOException with stream: 2019-01-24 21:46:48.273  INFO 9728 --- [           main] c.f.i.p.r.r.s.BranchOfficeServiceTest    : No active profile set, falling back to default profiles: default
+
+
+# Created at 2019-01-24T21:46:50.152
+Unexpected IOException with stream: 2019-01-24 21:46:50.148  INFO 9728 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+
+
+# Created at 2019-01-24T21:46:50.515
+Unexpected IOException with stream: 2019-01-24 21:46:50.514  INFO 9728 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 342ms. Found 7 repository interfaces.
+
+
+# Created at 2019-01-24T21:46:51.432
+Unexpected IOException with stream: 2019-01-24 21:46:51.432  INFO 9728 --- [           main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=7493b9bb-be1a-3ff0-a688-3df2fde6d09f
+
+
+# Created at 2019-01-24T21:46:51.905
+Unexpected IOException with stream: 2019-01-24 21:46:51.904  INFO 9728 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c4b21ed5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+
+# Created at 2019-01-24T21:46:52.095
+Unexpected IOException with stream: 2019-01-24 21:46:52.094  INFO 9728 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$e0cc21d2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+
+# Created at 2019-01-24T21:46:53.036
+Unexpected IOException with stream: 2019-01-24 21:46:53.035  INFO 9728 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+
+
+# Created at 2019-01-24T21:46:54.612
+Unexpected IOException with stream: 2019-01-24 21:46:54.611  INFO 9728 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+
+
+# Created at 2019-01-24T21:46:54.970
+Unexpected IOException with stream: 2019-01-24 21:46:54.968  INFO 9728 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+
+
+# Created at 2019-01-24T21:46:55.257
+Unexpected IOException with stream: 2019-01-24 21:46:55.256  INFO 9728 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.7.Final}
+
+
+# Created at 2019-01-24T21:46:55.262
+Unexpected IOException with stream: 2019-01-24 21:46:55.262  INFO 9728 --- [           main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+
+
+# Created at 2019-01-24T21:46:55.635
+Unexpected IOException with stream: 2019-01-24 21:46:55.634  INFO 9728 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+
+
+# Created at 2019-01-24T21:46:56.120
+Unexpected IOException with stream: 2019-01-24 21:46:56.118  INFO 9728 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+
+
+# Created at 2019-01-24T21:46:59.139
+Unexpected IOException with stream: 2019-01-24 21:46:59.138  INFO 9728 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2019-01-24T21:47:01.421
+Unexpected IOException with stream: 2019-01-24 21:47:01.421  WARN 9728 --- [           main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+
+
+# Created at 2019-01-24T21:47:02.224
+Unexpected IOException with stream: 2019-01-24 21:47:02.223  WARN 9728 --- [           main] o.s.c.n.a.ArchaiusAutoConfiguration      : No spring.application.name found, defaulting to 'application'
+
+
+# Created at 2019-01-24T21:47:02.232
+Unexpected IOException with stream: 2019-01-24 21:47:02.232  WARN 9728 --- [           main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+
+
+# Created at 2019-01-24T21:47:02.233
+Unexpected IOException with stream: 2019-01-24 21:47:02.233  INFO 9728 --- [           main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+
+
+# Created at 2019-01-24T21:47:02.249
+Unexpected IOException with stream: 2019-01-24 21:47:02.248  WARN 9728 --- [           main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+
+
+# Created at 2019-01-24T21:47:02.250
+Unexpected IOException with stream: 2019-01-24 21:47:02.249  INFO 9728 --- [           main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+
+
+# Created at 2019-01-24T21:47:03.031
+Unexpected IOException with stream: 2019-01-24 21:47:03.030  INFO 9728 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+
+
+# Created at 2019-01-24T21:47:06.865
+Unexpected IOException with stream: 2019-01-24 21:47:06.864  INFO 9728 --- [           main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+
+
+# Created at 2019-01-24T21:47:06.949
+Unexpected IOException with stream: 2019-01-24 21:47:06.948  INFO 9728 --- [           main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+
+
+# Created at 2019-01-24T21:47:07.011
+Unexpected IOException with stream: 2019-01-24 21:47:07.010  INFO 9728 --- [           main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+
+
+# Created at 2019-01-24T21:47:08.446
+Unexpected IOException with stream: 2019-01-24 21:47:08.445  INFO 9728 --- [           main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: changeBranchUsingPUT_1
+
+
+# Created at 2019-01-24T21:47:08.768
+Unexpected IOException with stream: 2019-01-24 21:47:08.768  INFO 9728 --- [           main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: addBranchOfficeUsingPOST_1
+
+
+# Created at 2019-01-24T21:47:09.011
+Unexpected IOException with stream: 2019-01-24 21:47:09.010  INFO 9728 --- [           main] c.f.i.p.r.r.s.BranchOfficeServiceTest    : Started BranchOfficeServiceTest in 23.642 seconds (JVM running for 25.95)
+
+
+# Created at 2019-01-24T21:47:10.368
+Unexpected IOException: 5,1,com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest,testFindAll(com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest),null,null,null
+
+
+# Created at 2019-01-24T21:47:10.600
+Unexpected IOException: 6,1,com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest,testFindAll(com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest),null,null,null
+
+
+# Created at 2019-01-24T21:47:10.602
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest,null,null,null
+
+

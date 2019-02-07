@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.407 s - in com.ftn.isa.projekat.rentACar.rentACarCore.service.BranchOfficeServiceTest
