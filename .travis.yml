@@ -1,6 +1,3 @@
 language: java
 
-before_script: cd "userMicroservice"
-before_script: cd "hotelMicroservice"
-before_script: cd "rentACarMicroservice"
-before_script: cd "purchasesMicroservice"
+before_script: cd "userMicroservice", cd "hotelMicroservice", cd "rentACarMicroservice", cd "purchasesMicroservice"
